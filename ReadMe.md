@@ -11,7 +11,7 @@
 - [CS 6321 - Deep Learning](./Deep%20Learning/Course.md)
 - [CS 6335 - Big Data](./Big%20Data/Course.md)
 
-## Spring 2025 (TBD)
+## Fall 2025 (TBD)
 - [CS 6314 - Computer Networks](./Computer%20Networks/Course.md)
 - [CS 6318 - Artificial Intelligence](./Artificial%20Intelligence/Course.md)
 - [CS 6319 - Machine Learning](./Machine%20Learning/Course.md)
